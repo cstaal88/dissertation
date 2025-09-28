@@ -48,26 +48,4 @@ p <- ggplot(data_filtered, aes(x = Year)) +
 # Display the plot
 print(p)
 
-# Print summary statistics using the actual data range
-data_summary <- data_filtered %>%
-  summarise(
-    own_start = first(`Own-party feeling`),
-    own_end = last(`Own-party feeling`),
-    rival_start = first(`Rival-party feeling`),
-    rival_end = last(`Rival-party feeling`)
-  )
-
-cat("\nKey observations:\n")
-cat(sprintf("Own-party feeling: %.1f → %.1f (change: %+.1f)\n", 
-            data_summary$own_start, data_summary$own_end, 
-            data_summary$own_end - data_summary$own_start))
-cat(sprintf("Rival-party feeling: %.1f → %.1f (change: %+.1f)\n", 
-            data_summary$rival_start, data_summary$rival_end, 
-            data_summary$rival_end - data_summary$rival_start))
-cat(sprintf("Polarization gap at start: %.1f points\n", 
-            data_summary$own_start - data_summary$rival_start))
-cat(sprintf("Polarization gap at end: %.1f points\n", 
-            data_summary$own_end - data_summary$rival_end))
-
-# Optional: Save the plot
 # ggsave("party_feelings_anes.png", plot = p, width = 10, height = 6, dpi = 300, bg = "white")
