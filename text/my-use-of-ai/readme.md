@@ -1,0 +1,1 @@
+This folder show examples of prompts I used when working on my dissertation. Each file in this folder shows one prompt. I mostly used ChatGPT and Claude, but also experimented with GitHub Copilot, Microsoft Copilot, and Gemini from time to time.
