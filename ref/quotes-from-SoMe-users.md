@@ -1,6 +1,5 @@
 
 
-
 # Appendix 3: Sources for examples given in Chapter 1
 
 Sources for quotes mentioned in Chapter 1:
