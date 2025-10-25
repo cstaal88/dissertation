@@ -1,0 +1,1 @@
+American National Election Studies. (2025). The Guide to Public Opinion and Electoral Behavior. https://electionstudies.org/data-tools/anes-guide/anes-guide.html?chart=affective_polarization_parties
