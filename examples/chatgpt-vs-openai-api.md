@@ -1,0 +1,7 @@
+The main text (Chapter 2) notes that if you ask the same GPT-model for "the latest news about politics," you get a very different responds depending on whether you access it through ChatGPT or OpenAI's API.
+
+Here's an example to illustrate why. On October, 28, 2025, I asked OpenAI's `GPT-4.1` to tell me the latest news about politics, first by using ChatGPT and then by using OpenAI's API. ChatGPT (set to `GPT-4.1`) surfaced a story about President Trump refusing "to rule out running for a third presidential term." The very same model, when called through the API, talked about the 2024 U.S. presidential race.
+
+Here's the exact prompt I used: "In one short sentence, can you tell me the latest news about US politics?" The ChatGPT session was done in a temporary chat session, and the full response was: "Here’s a short sentence update: Donald Trump has refused to rule out running for a third presidential term — despite the constitutional bar — sparking fierce backlash from congressional Democrats."
+
+The API call was done with the model temperature set to zero and a generic system prompt ("You are a helpful assistant") and the full response was: "President Biden and former President Trump are preparing for their first 2024 presidential debate, set to take place on June 27."]
