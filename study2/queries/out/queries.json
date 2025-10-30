@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "topic": "abortion",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about abortion for me."
+  },
+  {
+    "id": 2,
+    "topic": "abortion",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about abortion for me. answer in 5 sentences."
+  },
+  {
+    "id": 3,
+    "topic": "abortion",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about abortion for me. answer in 6 sentences."
+  },
+  {
+    "id": 4,
+    "topic": "abortion",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about abortion for me. answer in 7 sentences."
+  },
+  {
+    "id": 5,
+    "topic": "abortion",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about abortion for me. answer in 8 sentences."
+  },
+  {
+    "id": 6,
+    "topic": "affirmative action",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about affirmative action for me."
+  },
+  {
+    "id": 7,
+    "topic": "affirmative action",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about affirmative action for me. answer in 5 sentences."
+  },
+  {
+    "id": 8,
+    "topic": "affirmative action",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about affirmative action for me. answer in 6 sentences."
+  },
+  {
+    "id": 9,
+    "topic": "affirmative action",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about affirmative action for me. answer in 7 sentences."
+  },
+  {
+    "id": 10,
+    "topic": "affirmative action",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about affirmative action for me. answer in 8 sentences."
+  },
+  {
+    "id": 11,
+    "topic": "climate change",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about climate change for me."
+  },
+  {
+    "id": 12,
+    "topic": "climate change",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about climate change for me. answer in 5 sentences."
+  },
+  {
+    "id": 13,
+    "topic": "climate change",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about climate change for me. answer in 6 sentences."
+  },
+  {
+    "id": 14,
+    "topic": "climate change",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about climate change for me. answer in 7 sentences."
+  },
+  {
+    "id": 15,
+    "topic": "climate change",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about climate change for me. answer in 8 sentences."
+  },
+  {
+    "id": 16,
+    "topic": "gun control",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about gun control for me."
+  },
+  {
+    "id": 17,
+    "topic": "gun control",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about gun control for me. answer in 5 sentences."
+  },
+  {
+    "id": 18,
+    "topic": "gun control",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about gun control for me. answer in 6 sentences."
+  },
+  {
+    "id": 19,
+    "topic": "gun control",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about gun control for me. answer in 7 sentences."
+  },
+  {
+    "id": 20,
+    "topic": "gun control",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about gun control for me. answer in 8 sentences."
+  },
+  {
+    "id": 21,
+    "topic": "health-care reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about health-care reform for me."
+  },
+  {
+    "id": 22,
+    "topic": "health-care reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about health-care reform for me. answer in 5 sentences."
+  },
+  {
+    "id": 23,
+    "topic": "health-care reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about health-care reform for me. answer in 6 sentences."
+  },
+  {
+    "id": 24,
+    "topic": "health-care reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about health-care reform for me. answer in 7 sentences."
+  },
+  {
+    "id": 25,
+    "topic": "health-care reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about health-care reform for me. answer in 8 sentences."
+  },
+  {
+    "id": 26,
+    "topic": "immigration",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about immigration for me."
+  },
+  {
+    "id": 27,
+    "topic": "immigration",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about immigration for me. answer in 5 sentences."
+  },
+  {
+    "id": 28,
+    "topic": "immigration",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about immigration for me. answer in 6 sentences."
+  },
+  {
+    "id": 29,
+    "topic": "immigration",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about immigration for me. answer in 7 sentences."
+  },
+  {
+    "id": 30,
+    "topic": "immigration",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about immigration for me. answer in 8 sentences."
+  },
+  {
+    "id": 31,
+    "topic": "the Israel–Palestine conflict",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about the israel–palestine conflict for me."
+  },
+  {
+    "id": 32,
+    "topic": "the Israel–Palestine conflict",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about the israel–palestine conflict for me. answer in 5 sentences."
+  },
+  {
+    "id": 33,
+    "topic": "the Israel–Palestine conflict",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about the israel–palestine conflict for me. answer in 6 sentences."
+  },
+  {
+    "id": 34,
+    "topic": "the Israel–Palestine conflict",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about the israel–palestine conflict for me. answer in 7 sentences."
+  },
+  {
+    "id": 35,
+    "topic": "the Israel–Palestine conflict",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about the israel–palestine conflict for me. answer in 8 sentences."
+  },
+  {
+    "id": 36,
+    "topic": "police reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about police reform for me."
+  },
+  {
+    "id": 37,
+    "topic": "police reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about police reform for me. answer in 5 sentences."
+  },
+  {
+    "id": 38,
+    "topic": "police reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about police reform for me. answer in 6 sentences."
+  },
+  {
+    "id": 39,
+    "topic": "police reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about police reform for me. answer in 7 sentences."
+  },
+  {
+    "id": 40,
+    "topic": "police reform",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about police reform for me. answer in 8 sentences."
+  },
+  {
+    "id": 41,
+    "topic": "transgender rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about transgender rights for me."
+  },
+  {
+    "id": 42,
+    "topic": "transgender rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about transgender rights for me. answer in 5 sentences."
+  },
+  {
+    "id": 43,
+    "topic": "transgender rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about transgender rights for me. answer in 6 sentences."
+  },
+  {
+    "id": 44,
+    "topic": "transgender rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about transgender rights for me. answer in 7 sentences."
+  },
+  {
+    "id": 45,
+    "topic": "transgender rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about transgender rights for me. answer in 8 sentences."
+  },
+  {
+    "id": 46,
+    "topic": "voting rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": "none",
+    "prompt": "summarize the latest news about voting rights for me."
+  },
+  {
+    "id": 47,
+    "topic": "voting rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 5,
+    "prompt": "summarize the latest news about voting rights for me. answer in 5 sentences."
+  },
+  {
+    "id": 48,
+    "topic": "voting rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 6,
+    "prompt": "summarize the latest news about voting rights for me. answer in 6 sentences."
+  },
+  {
+    "id": 49,
+    "topic": "voting rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 7,
+    "prompt": "summarize the latest news about voting rights for me. answer in 7 sentences."
+  },
+  {
+    "id": 50,
+    "topic": "voting rights",
+    "template": "summarize the latest news about {topic} for me",
+    "length": 8,
+    "prompt": "summarize the latest news about voting rights for me. answer in 8 sentences."
+  },
+  {
+    "id": 51,
+    "topic": "abortion",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about abortion, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 52,
+    "topic": "abortion",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about abortion, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 53,
+    "topic": "abortion",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about abortion, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 54,
+    "topic": "abortion",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about abortion, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 55,
+    "topic": "abortion",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about abortion, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 56,
+    "topic": "affirmative action",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about affirmative action, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 57,
+    "topic": "affirmative action",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about affirmative action, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 58,
+    "topic": "affirmative action",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about affirmative action, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 59,
+    "topic": "affirmative action",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about affirmative action, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 60,
+    "topic": "affirmative action",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about affirmative action, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 61,
+    "topic": "climate change",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about climate change, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 62,
+    "topic": "climate change",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about climate change, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 63,
+    "topic": "climate change",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about climate change, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 64,
+    "topic": "climate change",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about climate change, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 65,
+    "topic": "climate change",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about climate change, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 66,
+    "topic": "gun control",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about gun control, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 67,
+    "topic": "gun control",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about gun control, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 68,
+    "topic": "gun control",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about gun control, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 69,
+    "topic": "gun control",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about gun control, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 70,
+    "topic": "gun control",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about gun control, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 71,
+    "topic": "health-care reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about health-care reform, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 72,
+    "topic": "health-care reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about health-care reform, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 73,
+    "topic": "health-care reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about health-care reform, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 74,
+    "topic": "health-care reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about health-care reform, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 75,
+    "topic": "health-care reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about health-care reform, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 76,
+    "topic": "immigration",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about immigration, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 77,
+    "topic": "immigration",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about immigration, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 78,
+    "topic": "immigration",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about immigration, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 79,
+    "topic": "immigration",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about immigration, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 80,
+    "topic": "immigration",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about immigration, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 81,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about the israel–palestine conflict, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 82,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about the israel–palestine conflict, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 83,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about the israel–palestine conflict, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 84,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about the israel–palestine conflict, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 85,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about the israel–palestine conflict, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 86,
+    "topic": "police reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about police reform, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 87,
+    "topic": "police reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about police reform, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 88,
+    "topic": "police reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about police reform, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 89,
+    "topic": "police reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about police reform, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 90,
+    "topic": "police reform",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about police reform, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 91,
+    "topic": "transgender rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about transgender rights, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 92,
+    "topic": "transgender rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about transgender rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 93,
+    "topic": "transgender rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about transgender rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 94,
+    "topic": "transgender rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about transgender rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 95,
+    "topic": "transgender rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about transgender rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 96,
+    "topic": "voting rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": "none",
+    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be."
+  },
+  {
+    "id": 97,
+    "topic": "voting rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 5,
+    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+  },
+  {
+    "id": 98,
+    "topic": "voting rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 6,
+    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+  },
+  {
+    "id": 99,
+    "topic": "voting rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 7,
+    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+  },
+  {
+    "id": 100,
+    "topic": "voting rights",
+    "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
+    "length": 8,
+    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+  },
+  {
+    "id": 101,
+    "topic": "abortion",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about abortion of the last 7 days."
+  },
+  {
+    "id": 102,
+    "topic": "abortion",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about abortion of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 103,
+    "topic": "abortion",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about abortion of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 104,
+    "topic": "abortion",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about abortion of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 105,
+    "topic": "abortion",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about abortion of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 106,
+    "topic": "affirmative action",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about affirmative action of the last 7 days."
+  },
+  {
+    "id": 107,
+    "topic": "affirmative action",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about affirmative action of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 108,
+    "topic": "affirmative action",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about affirmative action of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 109,
+    "topic": "affirmative action",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about affirmative action of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 110,
+    "topic": "affirmative action",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about affirmative action of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 111,
+    "topic": "climate change",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about climate change of the last 7 days."
+  },
+  {
+    "id": 112,
+    "topic": "climate change",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about climate change of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 113,
+    "topic": "climate change",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about climate change of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 114,
+    "topic": "climate change",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about climate change of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 115,
+    "topic": "climate change",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about climate change of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 116,
+    "topic": "gun control",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about gun control of the last 7 days."
+  },
+  {
+    "id": 117,
+    "topic": "gun control",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about gun control of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 118,
+    "topic": "gun control",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about gun control of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 119,
+    "topic": "gun control",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about gun control of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 120,
+    "topic": "gun control",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about gun control of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 121,
+    "topic": "health-care reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about health-care reform of the last 7 days."
+  },
+  {
+    "id": 122,
+    "topic": "health-care reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about health-care reform of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 123,
+    "topic": "health-care reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about health-care reform of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 124,
+    "topic": "health-care reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about health-care reform of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 125,
+    "topic": "health-care reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about health-care reform of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 126,
+    "topic": "immigration",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about immigration of the last 7 days."
+  },
+  {
+    "id": 127,
+    "topic": "immigration",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about immigration of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 128,
+    "topic": "immigration",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about immigration of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 129,
+    "topic": "immigration",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about immigration of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 130,
+    "topic": "immigration",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about immigration of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 131,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about the Israel–Palestine conflict of the last 7 days."
+  },
+  {
+    "id": 132,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about the Israel–Palestine conflict of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 133,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about the Israel–Palestine conflict of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 134,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about the Israel–Palestine conflict of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 135,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about the Israel–Palestine conflict of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 136,
+    "topic": "police reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about police reform of the last 7 days."
+  },
+  {
+    "id": 137,
+    "topic": "police reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about police reform of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 138,
+    "topic": "police reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about police reform of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 139,
+    "topic": "police reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about police reform of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 140,
+    "topic": "police reform",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about police reform of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 141,
+    "topic": "transgender rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about transgender rights of the last 7 days."
+  },
+  {
+    "id": 142,
+    "topic": "transgender rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about transgender rights of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 143,
+    "topic": "transgender rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about transgender rights of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 144,
+    "topic": "transgender rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about transgender rights of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 145,
+    "topic": "transgender rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about transgender rights of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 146,
+    "topic": "voting rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": "none",
+    "prompt": "Provide the most important news about voting rights of the last 7 days."
+  },
+  {
+    "id": 147,
+    "topic": "voting rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 5,
+    "prompt": "Provide the most important news about voting rights of the last 7 days. Answer in 5 sentences."
+  },
+  {
+    "id": 148,
+    "topic": "voting rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 6,
+    "prompt": "Provide the most important news about voting rights of the last 7 days. Answer in 6 sentences."
+  },
+  {
+    "id": 149,
+    "topic": "voting rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 7,
+    "prompt": "Provide the most important news about voting rights of the last 7 days. Answer in 7 sentences."
+  },
+  {
+    "id": 150,
+    "topic": "voting rights",
+    "template": "Provide the most important news about {topic} of the last 7 days",
+    "length": 8,
+    "prompt": "Provide the most important news about voting rights of the last 7 days. Answer in 8 sentences."
+  },
+  {
+    "id": 151,
+    "topic": "abortion",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about abortion. Be concise."
+  },
+  {
+    "id": 152,
+    "topic": "abortion",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about abortion. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 153,
+    "topic": "abortion",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about abortion. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 154,
+    "topic": "abortion",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about abortion. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 155,
+    "topic": "abortion",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about abortion. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 156,
+    "topic": "affirmative action",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about affirmative action. Be concise."
+  },
+  {
+    "id": 157,
+    "topic": "affirmative action",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about affirmative action. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 158,
+    "topic": "affirmative action",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about affirmative action. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 159,
+    "topic": "affirmative action",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about affirmative action. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 160,
+    "topic": "affirmative action",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about affirmative action. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 161,
+    "topic": "climate change",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about climate change. Be concise."
+  },
+  {
+    "id": 162,
+    "topic": "climate change",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about climate change. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 163,
+    "topic": "climate change",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about climate change. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 164,
+    "topic": "climate change",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about climate change. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 165,
+    "topic": "climate change",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about climate change. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 166,
+    "topic": "gun control",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about gun control. Be concise."
+  },
+  {
+    "id": 167,
+    "topic": "gun control",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about gun control. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 168,
+    "topic": "gun control",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about gun control. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 169,
+    "topic": "gun control",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about gun control. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 170,
+    "topic": "gun control",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about gun control. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 171,
+    "topic": "health-care reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about health-care reform. Be concise."
+  },
+  {
+    "id": 172,
+    "topic": "health-care reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about health-care reform. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 173,
+    "topic": "health-care reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about health-care reform. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 174,
+    "topic": "health-care reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about health-care reform. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 175,
+    "topic": "health-care reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about health-care reform. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 176,
+    "topic": "immigration",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about immigration. Be concise."
+  },
+  {
+    "id": 177,
+    "topic": "immigration",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about immigration. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 178,
+    "topic": "immigration",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about immigration. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 179,
+    "topic": "immigration",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about immigration. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 180,
+    "topic": "immigration",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about immigration. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 181,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about the Israel–Palestine conflict. Be concise."
+  },
+  {
+    "id": 182,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about the Israel–Palestine conflict. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 183,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about the Israel–Palestine conflict. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 184,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about the Israel–Palestine conflict. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 185,
+    "topic": "the Israel–Palestine conflict",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about the Israel–Palestine conflict. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 186,
+    "topic": "police reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about police reform. Be concise."
+  },
+  {
+    "id": 187,
+    "topic": "police reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about police reform. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 188,
+    "topic": "police reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about police reform. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 189,
+    "topic": "police reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about police reform. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 190,
+    "topic": "police reform",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about police reform. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 191,
+    "topic": "transgender rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about transgender rights. Be concise."
+  },
+  {
+    "id": 192,
+    "topic": "transgender rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about transgender rights. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 193,
+    "topic": "transgender rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about transgender rights. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 194,
+    "topic": "transgender rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about transgender rights. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 195,
+    "topic": "transgender rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about transgender rights. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 196,
+    "topic": "voting rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": "none",
+    "prompt": "Present the most relevant current news about voting rights. Be concise."
+  },
+  {
+    "id": 197,
+    "topic": "voting rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 5,
+    "prompt": "Present the most relevant current news about voting rights. Be concise. Answer in 5 sentences."
+  },
+  {
+    "id": 198,
+    "topic": "voting rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 6,
+    "prompt": "Present the most relevant current news about voting rights. Be concise. Answer in 6 sentences."
+  },
+  {
+    "id": 199,
+    "topic": "voting rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 7,
+    "prompt": "Present the most relevant current news about voting rights. Be concise. Answer in 7 sentences."
+  },
+  {
+    "id": 200,
+    "topic": "voting rights",
+    "template": "Present the most relevant current news about {topic}. Be concise.",
+    "length": 8,
+    "prompt": "Present the most relevant current news about voting rights. Be concise. Answer in 8 sentences."
+  },
+  {
+    "id": 201,
+    "topic": "abortion",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about abortion."
+  },
+  {
+    "id": 202,
+    "topic": "abortion",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about abortion. answer in 5 sentences."
+  },
+  {
+    "id": 203,
+    "topic": "abortion",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about abortion. answer in 6 sentences."
+  },
+  {
+    "id": 204,
+    "topic": "abortion",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about abortion. answer in 7 sentences."
+  },
+  {
+    "id": 205,
+    "topic": "abortion",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about abortion. answer in 8 sentences."
+  },
+  {
+    "id": 206,
+    "topic": "affirmative action",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about affirmative action."
+  },
+  {
+    "id": 207,
+    "topic": "affirmative action",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about affirmative action. answer in 5 sentences."
+  },
+  {
+    "id": 208,
+    "topic": "affirmative action",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about affirmative action. answer in 6 sentences."
+  },
+  {
+    "id": 209,
+    "topic": "affirmative action",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about affirmative action. answer in 7 sentences."
+  },
+  {
+    "id": 210,
+    "topic": "affirmative action",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about affirmative action. answer in 8 sentences."
+  },
+  {
+    "id": 211,
+    "topic": "climate change",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about climate change."
+  },
+  {
+    "id": 212,
+    "topic": "climate change",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about climate change. answer in 5 sentences."
+  },
+  {
+    "id": 213,
+    "topic": "climate change",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about climate change. answer in 6 sentences."
+  },
+  {
+    "id": 214,
+    "topic": "climate change",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about climate change. answer in 7 sentences."
+  },
+  {
+    "id": 215,
+    "topic": "climate change",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about climate change. answer in 8 sentences."
+  },
+  {
+    "id": 216,
+    "topic": "gun control",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about gun control."
+  },
+  {
+    "id": 217,
+    "topic": "gun control",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about gun control. answer in 5 sentences."
+  },
+  {
+    "id": 218,
+    "topic": "gun control",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about gun control. answer in 6 sentences."
+  },
+  {
+    "id": 219,
+    "topic": "gun control",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about gun control. answer in 7 sentences."
+  },
+  {
+    "id": 220,
+    "topic": "gun control",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about gun control. answer in 8 sentences."
+  },
+  {
+    "id": 221,
+    "topic": "health-care reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about health-care reform."
+  },
+  {
+    "id": 222,
+    "topic": "health-care reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about health-care reform. answer in 5 sentences."
+  },
+  {
+    "id": 223,
+    "topic": "health-care reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about health-care reform. answer in 6 sentences."
+  },
+  {
+    "id": 224,
+    "topic": "health-care reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about health-care reform. answer in 7 sentences."
+  },
+  {
+    "id": 225,
+    "topic": "health-care reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about health-care reform. answer in 8 sentences."
+  },
+  {
+    "id": 226,
+    "topic": "immigration",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about immigration."
+  },
+  {
+    "id": 227,
+    "topic": "immigration",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about immigration. answer in 5 sentences."
+  },
+  {
+    "id": 228,
+    "topic": "immigration",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about immigration. answer in 6 sentences."
+  },
+  {
+    "id": 229,
+    "topic": "immigration",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about immigration. answer in 7 sentences."
+  },
+  {
+    "id": 230,
+    "topic": "immigration",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about immigration. answer in 8 sentences."
+  },
+  {
+    "id": 231,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about the israel–palestine conflict."
+  },
+  {
+    "id": 232,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about the israel–palestine conflict. answer in 5 sentences."
+  },
+  {
+    "id": 233,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about the israel–palestine conflict. answer in 6 sentences."
+  },
+  {
+    "id": 234,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about the israel–palestine conflict. answer in 7 sentences."
+  },
+  {
+    "id": 235,
+    "topic": "the Israel–Palestine conflict",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about the israel–palestine conflict. answer in 8 sentences."
+  },
+  {
+    "id": 236,
+    "topic": "police reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about police reform."
+  },
+  {
+    "id": 237,
+    "topic": "police reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about police reform. answer in 5 sentences."
+  },
+  {
+    "id": 238,
+    "topic": "police reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about police reform. answer in 6 sentences."
+  },
+  {
+    "id": 239,
+    "topic": "police reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about police reform. answer in 7 sentences."
+  },
+  {
+    "id": 240,
+    "topic": "police reform",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about police reform. answer in 8 sentences."
+  },
+  {
+    "id": 241,
+    "topic": "transgender rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about transgender rights."
+  },
+  {
+    "id": 242,
+    "topic": "transgender rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about transgender rights. answer in 5 sentences."
+  },
+  {
+    "id": 243,
+    "topic": "transgender rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about transgender rights. answer in 6 sentences."
+  },
+  {
+    "id": 244,
+    "topic": "transgender rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about transgender rights. answer in 7 sentences."
+  },
+  {
+    "id": 245,
+    "topic": "transgender rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about transgender rights. answer in 8 sentences."
+  },
+  {
+    "id": 246,
+    "topic": "voting rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": "none",
+    "prompt": "give me a recap and main takeaways from todays major news about voting rights."
+  },
+  {
+    "id": 247,
+    "topic": "voting rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 5,
+    "prompt": "give me a recap and main takeaways from todays major news about voting rights. answer in 5 sentences."
+  },
+  {
+    "id": 248,
+    "topic": "voting rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 6,
+    "prompt": "give me a recap and main takeaways from todays major news about voting rights. answer in 6 sentences."
+  },
+  {
+    "id": 249,
+    "topic": "voting rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 7,
+    "prompt": "give me a recap and main takeaways from todays major news about voting rights. answer in 7 sentences."
+  },
+  {
+    "id": 250,
+    "topic": "voting rights",
+    "template": "give me a recap and main takeaways from todays major news about {topic}",
+    "length": 8,
+    "prompt": "give me a recap and main takeaways from todays major news about voting rights. answer in 8 sentences."
+  },
+  {
+    "id": 251,
+    "topic": "abortion",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about abortion with sources."
+  },
+  {
+    "id": 252,
+    "topic": "abortion",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about abortion with sources. answer in 5 sentences."
+  },
+  {
+    "id": 253,
+    "topic": "abortion",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about abortion with sources. answer in 6 sentences."
+  },
+  {
+    "id": 254,
+    "topic": "abortion",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about abortion with sources. answer in 7 sentences."
+  },
+  {
+    "id": 255,
+    "topic": "abortion",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about abortion with sources. answer in 8 sentences."
+  },
+  {
+    "id": 256,
+    "topic": "affirmative action",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about affirmative action with sources."
+  },
+  {
+    "id": 257,
+    "topic": "affirmative action",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about affirmative action with sources. answer in 5 sentences."
+  },
+  {
+    "id": 258,
+    "topic": "affirmative action",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about affirmative action with sources. answer in 6 sentences."
+  },
+  {
+    "id": 259,
+    "topic": "affirmative action",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about affirmative action with sources. answer in 7 sentences."
+  },
+  {
+    "id": 260,
+    "topic": "affirmative action",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about affirmative action with sources. answer in 8 sentences."
+  },
+  {
+    "id": 261,
+    "topic": "climate change",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about climate change with sources."
+  },
+  {
+    "id": 262,
+    "topic": "climate change",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about climate change with sources. answer in 5 sentences."
+  },
+  {
+    "id": 263,
+    "topic": "climate change",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about climate change with sources. answer in 6 sentences."
+  },
+  {
+    "id": 264,
+    "topic": "climate change",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about climate change with sources. answer in 7 sentences."
+  },
+  {
+    "id": 265,
+    "topic": "climate change",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about climate change with sources. answer in 8 sentences."
+  },
+  {
+    "id": 266,
+    "topic": "gun control",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about gun control with sources."
+  },
+  {
+    "id": 267,
+    "topic": "gun control",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about gun control with sources. answer in 5 sentences."
+  },
+  {
+    "id": 268,
+    "topic": "gun control",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about gun control with sources. answer in 6 sentences."
+  },
+  {
+    "id": 269,
+    "topic": "gun control",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about gun control with sources. answer in 7 sentences."
+  },
+  {
+    "id": 270,
+    "topic": "gun control",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about gun control with sources. answer in 8 sentences."
+  },
+  {
+    "id": 271,
+    "topic": "health-care reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about health-care reform with sources."
+  },
+  {
+    "id": 272,
+    "topic": "health-care reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about health-care reform with sources. answer in 5 sentences."
+  },
+  {
+    "id": 273,
+    "topic": "health-care reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about health-care reform with sources. answer in 6 sentences."
+  },
+  {
+    "id": 274,
+    "topic": "health-care reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about health-care reform with sources. answer in 7 sentences."
+  },
+  {
+    "id": 275,
+    "topic": "health-care reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about health-care reform with sources. answer in 8 sentences."
+  },
+  {
+    "id": 276,
+    "topic": "immigration",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about immigration with sources."
+  },
+  {
+    "id": 277,
+    "topic": "immigration",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about immigration with sources. answer in 5 sentences."
+  },
+  {
+    "id": 278,
+    "topic": "immigration",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about immigration with sources. answer in 6 sentences."
+  },
+  {
+    "id": 279,
+    "topic": "immigration",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about immigration with sources. answer in 7 sentences."
+  },
+  {
+    "id": 280,
+    "topic": "immigration",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about immigration with sources. answer in 8 sentences."
+  },
+  {
+    "id": 281,
+    "topic": "the Israel–Palestine conflict",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about the israel–palestine conflict with sources."
+  },
+  {
+    "id": 282,
+    "topic": "the Israel–Palestine conflict",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about the israel–palestine conflict with sources. answer in 5 sentences."
+  },
+  {
+    "id": 283,
+    "topic": "the Israel–Palestine conflict",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about the israel–palestine conflict with sources. answer in 6 sentences."
+  },
+  {
+    "id": 284,
+    "topic": "the Israel–Palestine conflict",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about the israel–palestine conflict with sources. answer in 7 sentences."
+  },
+  {
+    "id": 285,
+    "topic": "the Israel–Palestine conflict",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about the israel–palestine conflict with sources. answer in 8 sentences."
+  },
+  {
+    "id": 286,
+    "topic": "police reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about police reform with sources."
+  },
+  {
+    "id": 287,
+    "topic": "police reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about police reform with sources. answer in 5 sentences."
+  },
+  {
+    "id": 288,
+    "topic": "police reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about police reform with sources. answer in 6 sentences."
+  },
+  {
+    "id": 289,
+    "topic": "police reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about police reform with sources. answer in 7 sentences."
+  },
+  {
+    "id": 290,
+    "topic": "police reform",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about police reform with sources. answer in 8 sentences."
+  },
+  {
+    "id": 291,
+    "topic": "transgender rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about transgender rights with sources."
+  },
+  {
+    "id": 292,
+    "topic": "transgender rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about transgender rights with sources. answer in 5 sentences."
+  },
+  {
+    "id": 293,
+    "topic": "transgender rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about transgender rights with sources. answer in 6 sentences."
+  },
+  {
+    "id": 294,
+    "topic": "transgender rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about transgender rights with sources. answer in 7 sentences."
+  },
+  {
+    "id": 295,
+    "topic": "transgender rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about transgender rights with sources. answer in 8 sentences."
+  },
+  {
+    "id": 296,
+    "topic": "voting rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": "none",
+    "prompt": "generate a summary of news about voting rights with sources."
+  },
+  {
+    "id": 297,
+    "topic": "voting rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 5,
+    "prompt": "generate a summary of news about voting rights with sources. answer in 5 sentences."
+  },
+  {
+    "id": 298,
+    "topic": "voting rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 6,
+    "prompt": "generate a summary of news about voting rights with sources. answer in 6 sentences."
+  },
+  {
+    "id": 299,
+    "topic": "voting rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 7,
+    "prompt": "generate a summary of news about voting rights with sources. answer in 7 sentences."
+  },
+  {
+    "id": 300,
+    "topic": "voting rights",
+    "template": "generate a summary of news about {topic} with sources",
+    "length": 8,
+    "prompt": "generate a summary of news about voting rights with sources. answer in 8 sentences."
+  },
+  {
+    "id": 301,
+    "topic": "abortion",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about abortion."
+  },
+  {
+    "id": 302,
+    "topic": "abortion",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about abortion. Answer in 5 sentences."
+  },
+  {
+    "id": 303,
+    "topic": "abortion",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about abortion. Answer in 6 sentences."
+  },
+  {
+    "id": 304,
+    "topic": "abortion",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about abortion. Answer in 7 sentences."
+  },
+  {
+    "id": 305,
+    "topic": "abortion",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about abortion. Answer in 8 sentences."
+  },
+  {
+    "id": 306,
+    "topic": "affirmative action",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about affirmative action."
+  },
+  {
+    "id": 307,
+    "topic": "affirmative action",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about affirmative action. Answer in 5 sentences."
+  },
+  {
+    "id": 308,
+    "topic": "affirmative action",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about affirmative action. Answer in 6 sentences."
+  },
+  {
+    "id": 309,
+    "topic": "affirmative action",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about affirmative action. Answer in 7 sentences."
+  },
+  {
+    "id": 310,
+    "topic": "affirmative action",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about affirmative action. Answer in 8 sentences."
+  },
+  {
+    "id": 311,
+    "topic": "climate change",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about climate change."
+  },
+  {
+    "id": 312,
+    "topic": "climate change",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about climate change. Answer in 5 sentences."
+  },
+  {
+    "id": 313,
+    "topic": "climate change",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about climate change. Answer in 6 sentences."
+  },
+  {
+    "id": 314,
+    "topic": "climate change",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about climate change. Answer in 7 sentences."
+  },
+  {
+    "id": 315,
+    "topic": "climate change",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about climate change. Answer in 8 sentences."
+  },
+  {
+    "id": 316,
+    "topic": "gun control",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about gun control."
+  },
+  {
+    "id": 317,
+    "topic": "gun control",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about gun control. Answer in 5 sentences."
+  },
+  {
+    "id": 318,
+    "topic": "gun control",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about gun control. Answer in 6 sentences."
+  },
+  {
+    "id": 319,
+    "topic": "gun control",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about gun control. Answer in 7 sentences."
+  },
+  {
+    "id": 320,
+    "topic": "gun control",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about gun control. Answer in 8 sentences."
+  },
+  {
+    "id": 321,
+    "topic": "health-care reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about health-care reform."
+  },
+  {
+    "id": 322,
+    "topic": "health-care reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about health-care reform. Answer in 5 sentences."
+  },
+  {
+    "id": 323,
+    "topic": "health-care reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about health-care reform. Answer in 6 sentences."
+  },
+  {
+    "id": 324,
+    "topic": "health-care reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about health-care reform. Answer in 7 sentences."
+  },
+  {
+    "id": 325,
+    "topic": "health-care reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about health-care reform. Answer in 8 sentences."
+  },
+  {
+    "id": 326,
+    "topic": "immigration",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about immigration."
+  },
+  {
+    "id": 327,
+    "topic": "immigration",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about immigration. Answer in 5 sentences."
+  },
+  {
+    "id": 328,
+    "topic": "immigration",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about immigration. Answer in 6 sentences."
+  },
+  {
+    "id": 329,
+    "topic": "immigration",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about immigration. Answer in 7 sentences."
+  },
+  {
+    "id": 330,
+    "topic": "immigration",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about immigration. Answer in 8 sentences."
+  },
+  {
+    "id": 331,
+    "topic": "the Israel–Palestine conflict",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about the Israel–Palestine conflict."
+  },
+  {
+    "id": 332,
+    "topic": "the Israel–Palestine conflict",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about the Israel–Palestine conflict. Answer in 5 sentences."
+  },
+  {
+    "id": 333,
+    "topic": "the Israel–Palestine conflict",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about the Israel–Palestine conflict. Answer in 6 sentences."
+  },
+  {
+    "id": 334,
+    "topic": "the Israel–Palestine conflict",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about the Israel–Palestine conflict. Answer in 7 sentences."
+  },
+  {
+    "id": 335,
+    "topic": "the Israel–Palestine conflict",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about the Israel–Palestine conflict. Answer in 8 sentences."
+  },
+  {
+    "id": 336,
+    "topic": "police reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about police reform."
+  },
+  {
+    "id": 337,
+    "topic": "police reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about police reform. Answer in 5 sentences."
+  },
+  {
+    "id": 338,
+    "topic": "police reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about police reform. Answer in 6 sentences."
+  },
+  {
+    "id": 339,
+    "topic": "police reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about police reform. Answer in 7 sentences."
+  },
+  {
+    "id": 340,
+    "topic": "police reform",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about police reform. Answer in 8 sentences."
+  },
+  {
+    "id": 341,
+    "topic": "transgender rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about transgender rights."
+  },
+  {
+    "id": 342,
+    "topic": "transgender rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about transgender rights. Answer in 5 sentences."
+  },
+  {
+    "id": 343,
+    "topic": "transgender rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about transgender rights. Answer in 6 sentences."
+  },
+  {
+    "id": 344,
+    "topic": "transgender rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about transgender rights. Answer in 7 sentences."
+  },
+  {
+    "id": 345,
+    "topic": "transgender rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about transgender rights. Answer in 8 sentences."
+  },
+  {
+    "id": 346,
+    "topic": "voting rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": "none",
+    "prompt": "ELI5 the latest news about voting rights."
+  },
+  {
+    "id": 347,
+    "topic": "voting rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 5,
+    "prompt": "ELI5 the latest news about voting rights. Answer in 5 sentences."
+  },
+  {
+    "id": 348,
+    "topic": "voting rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 6,
+    "prompt": "ELI5 the latest news about voting rights. Answer in 6 sentences."
+  },
+  {
+    "id": 349,
+    "topic": "voting rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 7,
+    "prompt": "ELI5 the latest news about voting rights. Answer in 7 sentences."
+  },
+  {
+    "id": 350,
+    "topic": "voting rights",
+    "template": "ELI5 the latest news about {topic}",
+    "length": 8,
+    "prompt": "ELI5 the latest news about voting rights. Answer in 8 sentences."
+  },
+  {
+    "id": 351,
+    "topic": "abortion",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about abortion."
+  },
+  {
+    "id": 352,
+    "topic": "abortion",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about abortion. answer in 5 sentences."
+  },
+  {
+    "id": 353,
+    "topic": "abortion",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about abortion. answer in 6 sentences."
+  },
+  {
+    "id": 354,
+    "topic": "abortion",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about abortion. answer in 7 sentences."
+  },
+  {
+    "id": 355,
+    "topic": "abortion",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about abortion. answer in 8 sentences."
+  },
+  {
+    "id": 356,
+    "topic": "affirmative action",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about affirmative action."
+  },
+  {
+    "id": 357,
+    "topic": "affirmative action",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about affirmative action. answer in 5 sentences."
+  },
+  {
+    "id": 358,
+    "topic": "affirmative action",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about affirmative action. answer in 6 sentences."
+  },
+  {
+    "id": 359,
+    "topic": "affirmative action",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about affirmative action. answer in 7 sentences."
+  },
+  {
+    "id": 360,
+    "topic": "affirmative action",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about affirmative action. answer in 8 sentences."
+  },
+  {
+    "id": 361,
+    "topic": "climate change",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about climate change."
+  },
+  {
+    "id": 362,
+    "topic": "climate change",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about climate change. answer in 5 sentences."
+  },
+  {
+    "id": 363,
+    "topic": "climate change",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about climate change. answer in 6 sentences."
+  },
+  {
+    "id": 364,
+    "topic": "climate change",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about climate change. answer in 7 sentences."
+  },
+  {
+    "id": 365,
+    "topic": "climate change",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about climate change. answer in 8 sentences."
+  },
+  {
+    "id": 366,
+    "topic": "gun control",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about gun control."
+  },
+  {
+    "id": 367,
+    "topic": "gun control",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about gun control. answer in 5 sentences."
+  },
+  {
+    "id": 368,
+    "topic": "gun control",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about gun control. answer in 6 sentences."
+  },
+  {
+    "id": 369,
+    "topic": "gun control",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about gun control. answer in 7 sentences."
+  },
+  {
+    "id": 370,
+    "topic": "gun control",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about gun control. answer in 8 sentences."
+  },
+  {
+    "id": 371,
+    "topic": "health-care reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about health-care reform."
+  },
+  {
+    "id": 372,
+    "topic": "health-care reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about health-care reform. answer in 5 sentences."
+  },
+  {
+    "id": 373,
+    "topic": "health-care reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about health-care reform. answer in 6 sentences."
+  },
+  {
+    "id": 374,
+    "topic": "health-care reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about health-care reform. answer in 7 sentences."
+  },
+  {
+    "id": 375,
+    "topic": "health-care reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about health-care reform. answer in 8 sentences."
+  },
+  {
+    "id": 376,
+    "topic": "immigration",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about immigration."
+  },
+  {
+    "id": 377,
+    "topic": "immigration",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about immigration. answer in 5 sentences."
+  },
+  {
+    "id": 378,
+    "topic": "immigration",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about immigration. answer in 6 sentences."
+  },
+  {
+    "id": 379,
+    "topic": "immigration",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about immigration. answer in 7 sentences."
+  },
+  {
+    "id": 380,
+    "topic": "immigration",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about immigration. answer in 8 sentences."
+  },
+  {
+    "id": 381,
+    "topic": "the Israel–Palestine conflict",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about the israel–palestine conflict."
+  },
+  {
+    "id": 382,
+    "topic": "the Israel–Palestine conflict",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about the israel–palestine conflict. answer in 5 sentences."
+  },
+  {
+    "id": 383,
+    "topic": "the Israel–Palestine conflict",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about the israel–palestine conflict. answer in 6 sentences."
+  },
+  {
+    "id": 384,
+    "topic": "the Israel–Palestine conflict",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about the israel–palestine conflict. answer in 7 sentences."
+  },
+  {
+    "id": 385,
+    "topic": "the Israel–Palestine conflict",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about the israel–palestine conflict. answer in 8 sentences."
+  },
+  {
+    "id": 386,
+    "topic": "police reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about police reform."
+  },
+  {
+    "id": 387,
+    "topic": "police reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about police reform. answer in 5 sentences."
+  },
+  {
+    "id": 388,
+    "topic": "police reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about police reform. answer in 6 sentences."
+  },
+  {
+    "id": 389,
+    "topic": "police reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about police reform. answer in 7 sentences."
+  },
+  {
+    "id": 390,
+    "topic": "police reform",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about police reform. answer in 8 sentences."
+  },
+  {
+    "id": 391,
+    "topic": "transgender rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about transgender rights."
+  },
+  {
+    "id": 392,
+    "topic": "transgender rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about transgender rights. answer in 5 sentences."
+  },
+  {
+    "id": 393,
+    "topic": "transgender rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about transgender rights. answer in 6 sentences."
+  },
+  {
+    "id": 394,
+    "topic": "transgender rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about transgender rights. answer in 7 sentences."
+  },
+  {
+    "id": 395,
+    "topic": "transgender rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about transgender rights. answer in 8 sentences."
+  },
+  {
+    "id": 396,
+    "topic": "voting rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": "none",
+    "prompt": "show me three credible sources to learn about voting rights."
+  },
+  {
+    "id": 397,
+    "topic": "voting rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 5,
+    "prompt": "show me three credible sources to learn about voting rights. answer in 5 sentences."
+  },
+  {
+    "id": 398,
+    "topic": "voting rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 6,
+    "prompt": "show me three credible sources to learn about voting rights. answer in 6 sentences."
+  },
+  {
+    "id": 399,
+    "topic": "voting rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 7,
+    "prompt": "show me three credible sources to learn about voting rights. answer in 7 sentences."
+  },
+  {
+    "id": 400,
+    "topic": "voting rights",
+    "template": "show me three credible sources to learn about {topic}",
+    "length": 8,
+    "prompt": "show me three credible sources to learn about voting rights. answer in 8 sentences."
+  },
+  {
+    "id": 401,
+    "topic": "abortion",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about abortion."
+  },
+  {
+    "id": 402,
+    "topic": "abortion",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about abortion. answer in 5 sentences."
+  },
+  {
+    "id": 403,
+    "topic": "abortion",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about abortion. answer in 6 sentences."
+  },
+  {
+    "id": 404,
+    "topic": "abortion",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about abortion. answer in 7 sentences."
+  },
+  {
+    "id": 405,
+    "topic": "abortion",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about abortion. answer in 8 sentences."
+  },
+  {
+    "id": 406,
+    "topic": "affirmative action",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about affirmative action."
+  },
+  {
+    "id": 407,
+    "topic": "affirmative action",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about affirmative action. answer in 5 sentences."
+  },
+  {
+    "id": 408,
+    "topic": "affirmative action",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about affirmative action. answer in 6 sentences."
+  },
+  {
+    "id": 409,
+    "topic": "affirmative action",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about affirmative action. answer in 7 sentences."
+  },
+  {
+    "id": 410,
+    "topic": "affirmative action",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about affirmative action. answer in 8 sentences."
+  },
+  {
+    "id": 411,
+    "topic": "climate change",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about climate change."
+  },
+  {
+    "id": 412,
+    "topic": "climate change",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about climate change. answer in 5 sentences."
+  },
+  {
+    "id": 413,
+    "topic": "climate change",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about climate change. answer in 6 sentences."
+  },
+  {
+    "id": 414,
+    "topic": "climate change",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about climate change. answer in 7 sentences."
+  },
+  {
+    "id": 415,
+    "topic": "climate change",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about climate change. answer in 8 sentences."
+  },
+  {
+    "id": 416,
+    "topic": "gun control",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about gun control."
+  },
+  {
+    "id": 417,
+    "topic": "gun control",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about gun control. answer in 5 sentences."
+  },
+  {
+    "id": 418,
+    "topic": "gun control",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about gun control. answer in 6 sentences."
+  },
+  {
+    "id": 419,
+    "topic": "gun control",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about gun control. answer in 7 sentences."
+  },
+  {
+    "id": 420,
+    "topic": "gun control",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about gun control. answer in 8 sentences."
+  },
+  {
+    "id": 421,
+    "topic": "health-care reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about health-care reform."
+  },
+  {
+    "id": 422,
+    "topic": "health-care reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about health-care reform. answer in 5 sentences."
+  },
+  {
+    "id": 423,
+    "topic": "health-care reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about health-care reform. answer in 6 sentences."
+  },
+  {
+    "id": 424,
+    "topic": "health-care reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about health-care reform. answer in 7 sentences."
+  },
+  {
+    "id": 425,
+    "topic": "health-care reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about health-care reform. answer in 8 sentences."
+  },
+  {
+    "id": 426,
+    "topic": "immigration",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about immigration."
+  },
+  {
+    "id": 427,
+    "topic": "immigration",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about immigration. answer in 5 sentences."
+  },
+  {
+    "id": 428,
+    "topic": "immigration",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about immigration. answer in 6 sentences."
+  },
+  {
+    "id": 429,
+    "topic": "immigration",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about immigration. answer in 7 sentences."
+  },
+  {
+    "id": 430,
+    "topic": "immigration",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about immigration. answer in 8 sentences."
+  },
+  {
+    "id": 431,
+    "topic": "the Israel–Palestine conflict",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about the israel–palestine conflict."
+  },
+  {
+    "id": 432,
+    "topic": "the Israel–Palestine conflict",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about the israel–palestine conflict. answer in 5 sentences."
+  },
+  {
+    "id": 433,
+    "topic": "the Israel–Palestine conflict",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about the israel–palestine conflict. answer in 6 sentences."
+  },
+  {
+    "id": 434,
+    "topic": "the Israel–Palestine conflict",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about the israel–palestine conflict. answer in 7 sentences."
+  },
+  {
+    "id": 435,
+    "topic": "the Israel–Palestine conflict",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about the israel–palestine conflict. answer in 8 sentences."
+  },
+  {
+    "id": 436,
+    "topic": "police reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about police reform."
+  },
+  {
+    "id": 437,
+    "topic": "police reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about police reform. answer in 5 sentences."
+  },
+  {
+    "id": 438,
+    "topic": "police reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about police reform. answer in 6 sentences."
+  },
+  {
+    "id": 439,
+    "topic": "police reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about police reform. answer in 7 sentences."
+  },
+  {
+    "id": 440,
+    "topic": "police reform",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about police reform. answer in 8 sentences."
+  },
+  {
+    "id": 441,
+    "topic": "transgender rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about transgender rights."
+  },
+  {
+    "id": 442,
+    "topic": "transgender rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about transgender rights. answer in 5 sentences."
+  },
+  {
+    "id": 443,
+    "topic": "transgender rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about transgender rights. answer in 6 sentences."
+  },
+  {
+    "id": 444,
+    "topic": "transgender rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about transgender rights. answer in 7 sentences."
+  },
+  {
+    "id": 445,
+    "topic": "transgender rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about transgender rights. answer in 8 sentences."
+  },
+  {
+    "id": 446,
+    "topic": "voting rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": "none",
+    "prompt": "can i have some of the latest news about voting rights."
+  },
+  {
+    "id": 447,
+    "topic": "voting rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 5,
+    "prompt": "can i have some of the latest news about voting rights. answer in 5 sentences."
+  },
+  {
+    "id": 448,
+    "topic": "voting rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 6,
+    "prompt": "can i have some of the latest news about voting rights. answer in 6 sentences."
+  },
+  {
+    "id": 449,
+    "topic": "voting rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 7,
+    "prompt": "can i have some of the latest news about voting rights. answer in 7 sentences."
+  },
+  {
+    "id": 450,
+    "topic": "voting rights",
+    "template": "can I have some of the latest news about {topic}",
+    "length": 8,
+    "prompt": "can i have some of the latest news about voting rights. answer in 8 sentences."
+  },
+  {
+    "id": 451,
+    "topic": "abortion",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about abortion."
+  },
+  {
+    "id": 452,
+    "topic": "abortion",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about abortion. Answer in 5 sentences."
+  },
+  {
+    "id": 453,
+    "topic": "abortion",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about abortion. Answer in 6 sentences."
+  },
+  {
+    "id": 454,
+    "topic": "abortion",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about abortion. Answer in 7 sentences."
+  },
+  {
+    "id": 455,
+    "topic": "abortion",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about abortion. Answer in 8 sentences."
+  },
+  {
+    "id": 456,
+    "topic": "affirmative action",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about affirmative action."
+  },
+  {
+    "id": 457,
+    "topic": "affirmative action",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about affirmative action. Answer in 5 sentences."
+  },
+  {
+    "id": 458,
+    "topic": "affirmative action",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about affirmative action. Answer in 6 sentences."
+  },
+  {
+    "id": 459,
+    "topic": "affirmative action",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about affirmative action. Answer in 7 sentences."
+  },
+  {
+    "id": 460,
+    "topic": "affirmative action",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about affirmative action. Answer in 8 sentences."
+  },
+  {
+    "id": 461,
+    "topic": "climate change",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about climate change."
+  },
+  {
+    "id": 462,
+    "topic": "climate change",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about climate change. Answer in 5 sentences."
+  },
+  {
+    "id": 463,
+    "topic": "climate change",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about climate change. Answer in 6 sentences."
+  },
+  {
+    "id": 464,
+    "topic": "climate change",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about climate change. Answer in 7 sentences."
+  },
+  {
+    "id": 465,
+    "topic": "climate change",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about climate change. Answer in 8 sentences."
+  },
+  {
+    "id": 466,
+    "topic": "gun control",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about gun control."
+  },
+  {
+    "id": 467,
+    "topic": "gun control",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about gun control. Answer in 5 sentences."
+  },
+  {
+    "id": 468,
+    "topic": "gun control",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about gun control. Answer in 6 sentences."
+  },
+  {
+    "id": 469,
+    "topic": "gun control",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about gun control. Answer in 7 sentences."
+  },
+  {
+    "id": 470,
+    "topic": "gun control",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about gun control. Answer in 8 sentences."
+  },
+  {
+    "id": 471,
+    "topic": "health-care reform",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about health-care reform."
+  },
+  {
+    "id": 472,
+    "topic": "health-care reform",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about health-care reform. Answer in 5 sentences."
+  },
+  {
+    "id": 473,
+    "topic": "health-care reform",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about health-care reform. Answer in 6 sentences."
+  },
+  {
+    "id": 474,
+    "topic": "health-care reform",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about health-care reform. Answer in 7 sentences."
+  },
+  {
+    "id": 475,
+    "topic": "health-care reform",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about health-care reform. Answer in 8 sentences."
+  },
+  {
+    "id": 476,
+    "topic": "immigration",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about immigration."
+  },
+  {
+    "id": 477,
+    "topic": "immigration",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about immigration. Answer in 5 sentences."
+  },
+  {
+    "id": 478,
+    "topic": "immigration",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about immigration. Answer in 6 sentences."
+  },
+  {
+    "id": 479,
+    "topic": "immigration",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about immigration. Answer in 7 sentences."
+  },
+  {
+    "id": 480,
+    "topic": "immigration",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about immigration. Answer in 8 sentences."
+  },
+  {
+    "id": 481,
+    "topic": "the Israel–Palestine conflict",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about the Israel–Palestine conflict."
+  },
+  {
+    "id": 482,
+    "topic": "the Israel–Palestine conflict",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about the Israel–Palestine conflict. Answer in 5 sentences."
+  },
+  {
+    "id": 483,
+    "topic": "the Israel–Palestine conflict",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about the Israel–Palestine conflict. Answer in 6 sentences."
+  },
+  {
+    "id": 484,
+    "topic": "the Israel–Palestine conflict",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about the Israel–Palestine conflict. Answer in 7 sentences."
+  },
+  {
+    "id": 485,
+    "topic": "the Israel–Palestine conflict",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about the Israel–Palestine conflict. Answer in 8 sentences."
+  },
+  {
+    "id": 486,
+    "topic": "police reform",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about police reform."
+  },
+  {
+    "id": 487,
+    "topic": "police reform",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about police reform. Answer in 5 sentences."
+  },
+  {
+    "id": 488,
+    "topic": "police reform",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about police reform. Answer in 6 sentences."
+  },
+  {
+    "id": 489,
+    "topic": "police reform",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about police reform. Answer in 7 sentences."
+  },
+  {
+    "id": 490,
+    "topic": "police reform",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about police reform. Answer in 8 sentences."
+  },
+  {
+    "id": 491,
+    "topic": "transgender rights",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about transgender rights."
+  },
+  {
+    "id": 492,
+    "topic": "transgender rights",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about transgender rights. Answer in 5 sentences."
+  },
+  {
+    "id": 493,
+    "topic": "transgender rights",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about transgender rights. Answer in 6 sentences."
+  },
+  {
+    "id": 494,
+    "topic": "transgender rights",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about transgender rights. Answer in 7 sentences."
+  },
+  {
+    "id": 495,
+    "topic": "transgender rights",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about transgender rights. Answer in 8 sentences."
+  },
+  {
+    "id": 496,
+    "topic": "voting rights",
+    "template": "List today most important news about {topic}",
+    "length": "none",
+    "prompt": "List today most important news about voting rights."
+  },
+  {
+    "id": 497,
+    "topic": "voting rights",
+    "template": "List today most important news about {topic}",
+    "length": 5,
+    "prompt": "List today most important news about voting rights. Answer in 5 sentences."
+  },
+  {
+    "id": 498,
+    "topic": "voting rights",
+    "template": "List today most important news about {topic}",
+    "length": 6,
+    "prompt": "List today most important news about voting rights. Answer in 6 sentences."
+  },
+  {
+    "id": 499,
+    "topic": "voting rights",
+    "template": "List today most important news about {topic}",
+    "length": 7,
+    "prompt": "List today most important news about voting rights. Answer in 7 sentences."
+  },
+  {
+    "id": 500,
+    "topic": "voting rights",
+    "template": "List today most important news about {topic}",
+    "length": 8,
+    "prompt": "List today most important news about voting rights. Answer in 8 sentences."
+  }
+]
