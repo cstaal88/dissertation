@@ -316,38 +316,38 @@
   },
   {
     "id": 46,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "summarize the latest news about {topic} for me",
     "length": "none",
-    "prompt": "summarize the latest news about voting rights for me."
+    "prompt": "summarize the latest news for me."
   },
   {
     "id": 47,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "summarize the latest news about {topic} for me",
     "length": 5,
-    "prompt": "summarize the latest news about voting rights for me. answer in 5 sentences."
+    "prompt": "summarize the latest news for me. answer in 5 sentences."
   },
   {
     "id": 48,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "summarize the latest news about {topic} for me",
     "length": 6,
-    "prompt": "summarize the latest news about voting rights for me. answer in 6 sentences."
+    "prompt": "summarize the latest news for me. answer in 6 sentences."
   },
   {
     "id": 49,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "summarize the latest news about {topic} for me",
     "length": 7,
-    "prompt": "summarize the latest news about voting rights for me. answer in 7 sentences."
+    "prompt": "summarize the latest news for me. answer in 7 sentences."
   },
   {
     "id": 50,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "summarize the latest news about {topic} for me",
     "length": 8,
-    "prompt": "summarize the latest news about voting rights for me. answer in 8 sentences."
+    "prompt": "summarize the latest news for me. answer in 8 sentences."
   },
   {
     "id": 51,
@@ -666,38 +666,38 @@
   },
   {
     "id": 96,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
     "length": "none",
-    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be."
+    "prompt": "give me the latest important news, include news summary, the problem, and your idea of what the solution ought to be."
   },
   {
     "id": 97,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
     "length": 5,
-    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
+    "prompt": "give me the latest important news, include news summary, the problem, and your idea of what the solution ought to be. answer in 5 sentences."
   },
   {
     "id": 98,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
     "length": 6,
-    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
+    "prompt": "give me the latest important news, include news summary, the problem, and your idea of what the solution ought to be. answer in 6 sentences."
   },
   {
     "id": 99,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
     "length": 7,
-    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
+    "prompt": "give me the latest important news, include news summary, the problem, and your idea of what the solution ought to be. answer in 7 sentences."
   },
   {
     "id": 100,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
     "length": 8,
-    "prompt": "give me the latest important news about voting rights, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
+    "prompt": "give me the latest important news, include news summary, the problem, and your idea of what the solution ought to be. answer in 8 sentences."
   },
   {
     "id": 101,
@@ -1016,38 +1016,38 @@
   },
   {
     "id": 146,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Provide the most important news about {topic} of the last 7 days",
     "length": "none",
-    "prompt": "Provide the most important news about voting rights of the last 7 days."
+    "prompt": "Provide the most important news of the last 7 days."
   },
   {
     "id": 147,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Provide the most important news about {topic} of the last 7 days",
     "length": 5,
-    "prompt": "Provide the most important news about voting rights of the last 7 days. Answer in 5 sentences."
+    "prompt": "Provide the most important news of the last 7 days. Answer in 5 sentences."
   },
   {
     "id": 148,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Provide the most important news about {topic} of the last 7 days",
     "length": 6,
-    "prompt": "Provide the most important news about voting rights of the last 7 days. Answer in 6 sentences."
+    "prompt": "Provide the most important news of the last 7 days. Answer in 6 sentences."
   },
   {
     "id": 149,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Provide the most important news about {topic} of the last 7 days",
     "length": 7,
-    "prompt": "Provide the most important news about voting rights of the last 7 days. Answer in 7 sentences."
+    "prompt": "Provide the most important news of the last 7 days. Answer in 7 sentences."
   },
   {
     "id": 150,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Provide the most important news about {topic} of the last 7 days",
     "length": 8,
-    "prompt": "Provide the most important news about voting rights of the last 7 days. Answer in 8 sentences."
+    "prompt": "Provide the most important news of the last 7 days. Answer in 8 sentences."
   },
   {
     "id": 151,
@@ -1366,38 +1366,38 @@
   },
   {
     "id": 196,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Present the most relevant current news about {topic}. Be concise.",
     "length": "none",
-    "prompt": "Present the most relevant current news about voting rights. Be concise."
+    "prompt": "Present the most relevant current news. Be concise."
   },
   {
     "id": 197,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Present the most relevant current news about {topic}. Be concise.",
     "length": 5,
-    "prompt": "Present the most relevant current news about voting rights. Be concise. Answer in 5 sentences."
+    "prompt": "Present the most relevant current news. Be concise. Answer in 5 sentences."
   },
   {
     "id": 198,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Present the most relevant current news about {topic}. Be concise.",
     "length": 6,
-    "prompt": "Present the most relevant current news about voting rights. Be concise. Answer in 6 sentences."
+    "prompt": "Present the most relevant current news. Be concise. Answer in 6 sentences."
   },
   {
     "id": 199,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Present the most relevant current news about {topic}. Be concise.",
     "length": 7,
-    "prompt": "Present the most relevant current news about voting rights. Be concise. Answer in 7 sentences."
+    "prompt": "Present the most relevant current news. Be concise. Answer in 7 sentences."
   },
   {
     "id": 200,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "Present the most relevant current news about {topic}. Be concise.",
     "length": 8,
-    "prompt": "Present the most relevant current news about voting rights. Be concise. Answer in 8 sentences."
+    "prompt": "Present the most relevant current news. Be concise. Answer in 8 sentences."
   },
   {
     "id": 201,
@@ -1716,38 +1716,38 @@
   },
   {
     "id": 246,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me a recap and main takeaways from todays major news about {topic}",
     "length": "none",
-    "prompt": "give me a recap and main takeaways from todays major news about voting rights."
+    "prompt": "give me a recap and main takeaways from todays major news."
   },
   {
     "id": 247,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me a recap and main takeaways from todays major news about {topic}",
     "length": 5,
-    "prompt": "give me a recap and main takeaways from todays major news about voting rights. answer in 5 sentences."
+    "prompt": "give me a recap and main takeaways from todays major news. answer in 5 sentences."
   },
   {
     "id": 248,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me a recap and main takeaways from todays major news about {topic}",
     "length": 6,
-    "prompt": "give me a recap and main takeaways from todays major news about voting rights. answer in 6 sentences."
+    "prompt": "give me a recap and main takeaways from todays major news. answer in 6 sentences."
   },
   {
     "id": 249,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me a recap and main takeaways from todays major news about {topic}",
     "length": 7,
-    "prompt": "give me a recap and main takeaways from todays major news about voting rights. answer in 7 sentences."
+    "prompt": "give me a recap and main takeaways from todays major news. answer in 7 sentences."
   },
   {
     "id": 250,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "give me a recap and main takeaways from todays major news about {topic}",
     "length": 8,
-    "prompt": "give me a recap and main takeaways from todays major news about voting rights. answer in 8 sentences."
+    "prompt": "give me a recap and main takeaways from todays major news. answer in 8 sentences."
   },
   {
     "id": 251,
@@ -2066,388 +2066,388 @@
   },
   {
     "id": 296,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "generate a summary of news about {topic} with sources",
     "length": "none",
-    "prompt": "generate a summary of news about voting rights with sources."
+    "prompt": "generate a summary of news with sources."
   },
   {
     "id": 297,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "generate a summary of news about {topic} with sources",
     "length": 5,
-    "prompt": "generate a summary of news about voting rights with sources. answer in 5 sentences."
+    "prompt": "generate a summary of news with sources. answer in 5 sentences."
   },
   {
     "id": 298,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "generate a summary of news about {topic} with sources",
     "length": 6,
-    "prompt": "generate a summary of news about voting rights with sources. answer in 6 sentences."
+    "prompt": "generate a summary of news with sources. answer in 6 sentences."
   },
   {
     "id": 299,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "generate a summary of news about {topic} with sources",
     "length": 7,
-    "prompt": "generate a summary of news about voting rights with sources. answer in 7 sentences."
+    "prompt": "generate a summary of news with sources. answer in 7 sentences."
   },
   {
     "id": 300,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "generate a summary of news about {topic} with sources",
     "length": 8,
-    "prompt": "generate a summary of news about voting rights with sources. answer in 8 sentences."
+    "prompt": "generate a summary of news with sources. answer in 8 sentences."
   },
   {
     "id": 301,
     "topic": "abortion",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about abortion."
+    "prompt": "ELI5 the latest news about: abortion."
   },
   {
     "id": 302,
     "topic": "abortion",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about abortion. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news about: abortion. Answer in 5 sentences."
   },
   {
     "id": 303,
     "topic": "abortion",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about abortion. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news about: abortion. Answer in 6 sentences."
   },
   {
     "id": 304,
     "topic": "abortion",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about abortion. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news about: abortion. Answer in 7 sentences."
   },
   {
     "id": 305,
     "topic": "abortion",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about abortion. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news about: abortion. Answer in 8 sentences."
   },
   {
     "id": 306,
     "topic": "affirmative action",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about affirmative action."
+    "prompt": "ELI5 the latest news about: affirmative action."
   },
   {
     "id": 307,
     "topic": "affirmative action",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about affirmative action. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news about: affirmative action. Answer in 5 sentences."
   },
   {
     "id": 308,
     "topic": "affirmative action",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about affirmative action. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news about: affirmative action. Answer in 6 sentences."
   },
   {
     "id": 309,
     "topic": "affirmative action",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about affirmative action. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news about: affirmative action. Answer in 7 sentences."
   },
   {
     "id": 310,
     "topic": "affirmative action",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about affirmative action. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news about: affirmative action. Answer in 8 sentences."
   },
   {
     "id": 311,
     "topic": "climate change",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about climate change."
+    "prompt": "ELI5 the latest news about: climate change."
   },
   {
     "id": 312,
     "topic": "climate change",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about climate change. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news about: climate change. Answer in 5 sentences."
   },
   {
     "id": 313,
     "topic": "climate change",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about climate change. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news about: climate change. Answer in 6 sentences."
   },
   {
     "id": 314,
     "topic": "climate change",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about climate change. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news about: climate change. Answer in 7 sentences."
   },
   {
     "id": 315,
     "topic": "climate change",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about climate change. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news about: climate change. Answer in 8 sentences."
   },
   {
     "id": 316,
     "topic": "gun control",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about gun control."
+    "prompt": "ELI5 the latest news about: gun control."
   },
   {
     "id": 317,
     "topic": "gun control",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about gun control. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news about: gun control. Answer in 5 sentences."
   },
   {
     "id": 318,
     "topic": "gun control",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about gun control. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news about: gun control. Answer in 6 sentences."
   },
   {
     "id": 319,
     "topic": "gun control",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about gun control. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news about: gun control. Answer in 7 sentences."
   },
   {
     "id": 320,
     "topic": "gun control",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about gun control. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news about: gun control. Answer in 8 sentences."
   },
   {
     "id": 321,
     "topic": "health-care reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about health-care reform."
+    "prompt": "ELI5 the latest news about: health-care reform."
   },
   {
     "id": 322,
     "topic": "health-care reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about health-care reform. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news about: health-care reform. Answer in 5 sentences."
   },
   {
     "id": 323,
     "topic": "health-care reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about health-care reform. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news about: health-care reform. Answer in 6 sentences."
   },
   {
     "id": 324,
     "topic": "health-care reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about health-care reform. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news about: health-care reform. Answer in 7 sentences."
   },
   {
     "id": 325,
     "topic": "health-care reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about health-care reform. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news about: health-care reform. Answer in 8 sentences."
   },
   {
     "id": 326,
     "topic": "immigration",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about immigration."
+    "prompt": "ELI5 the latest news about: immigration."
   },
   {
     "id": 327,
     "topic": "immigration",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about immigration. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news about: immigration. Answer in 5 sentences."
   },
   {
     "id": 328,
     "topic": "immigration",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about immigration. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news about: immigration. Answer in 6 sentences."
   },
   {
     "id": 329,
     "topic": "immigration",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about immigration. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news about: immigration. Answer in 7 sentences."
   },
   {
     "id": 330,
     "topic": "immigration",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about immigration. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news about: immigration. Answer in 8 sentences."
   },
   {
     "id": 331,
     "topic": "the Israel–Palestine conflict",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about the Israel–Palestine conflict."
+    "prompt": "ELI5 the latest news about: the Israel–Palestine conflict."
   },
   {
     "id": 332,
     "topic": "the Israel–Palestine conflict",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about the Israel–Palestine conflict. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news about: the Israel–Palestine conflict. Answer in 5 sentences."
   },
   {
     "id": 333,
     "topic": "the Israel–Palestine conflict",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about the Israel–Palestine conflict. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news about: the Israel–Palestine conflict. Answer in 6 sentences."
   },
   {
     "id": 334,
     "topic": "the Israel–Palestine conflict",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about the Israel–Palestine conflict. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news about: the Israel–Palestine conflict. Answer in 7 sentences."
   },
   {
     "id": 335,
     "topic": "the Israel–Palestine conflict",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about the Israel–Palestine conflict. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news about: the Israel–Palestine conflict. Answer in 8 sentences."
   },
   {
     "id": 336,
     "topic": "police reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about police reform."
+    "prompt": "ELI5 the latest news about: police reform."
   },
   {
     "id": 337,
     "topic": "police reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about police reform. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news about: police reform. Answer in 5 sentences."
   },
   {
     "id": 338,
     "topic": "police reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about police reform. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news about: police reform. Answer in 6 sentences."
   },
   {
     "id": 339,
     "topic": "police reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about police reform. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news about: police reform. Answer in 7 sentences."
   },
   {
     "id": 340,
     "topic": "police reform",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about police reform. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news about: police reform. Answer in 8 sentences."
   },
   {
     "id": 341,
     "topic": "transgender rights",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about transgender rights."
+    "prompt": "ELI5 the latest news about: transgender rights."
   },
   {
     "id": 342,
     "topic": "transgender rights",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about transgender rights. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news about: transgender rights. Answer in 5 sentences."
   },
   {
     "id": 343,
     "topic": "transgender rights",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about transgender rights. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news about: transgender rights. Answer in 6 sentences."
   },
   {
     "id": 344,
     "topic": "transgender rights",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about transgender rights. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news about: transgender rights. Answer in 7 sentences."
   },
   {
     "id": 345,
     "topic": "transgender rights",
-    "template": "ELI5 the latest news about {topic}",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about transgender rights. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news about: transgender rights. Answer in 8 sentences."
   },
   {
     "id": 346,
-    "topic": "voting rights",
-    "template": "ELI5 the latest news about {topic}",
+    "topic": "general news",
+    "template": "ELI5 the latest news about: {topic}",
     "length": "none",
-    "prompt": "ELI5 the latest news about voting rights."
+    "prompt": "ELI5 the latest news."
   },
   {
     "id": 347,
-    "topic": "voting rights",
-    "template": "ELI5 the latest news about {topic}",
+    "topic": "general news",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 5,
-    "prompt": "ELI5 the latest news about voting rights. Answer in 5 sentences."
+    "prompt": "ELI5 the latest news. Answer in 5 sentences."
   },
   {
     "id": 348,
-    "topic": "voting rights",
-    "template": "ELI5 the latest news about {topic}",
+    "topic": "general news",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 6,
-    "prompt": "ELI5 the latest news about voting rights. Answer in 6 sentences."
+    "prompt": "ELI5 the latest news. Answer in 6 sentences."
   },
   {
     "id": 349,
-    "topic": "voting rights",
-    "template": "ELI5 the latest news about {topic}",
+    "topic": "general news",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 7,
-    "prompt": "ELI5 the latest news about voting rights. Answer in 7 sentences."
+    "prompt": "ELI5 the latest news. Answer in 7 sentences."
   },
   {
     "id": 350,
-    "topic": "voting rights",
-    "template": "ELI5 the latest news about {topic}",
+    "topic": "general news",
+    "template": "ELI5 the latest news about: {topic}",
     "length": 8,
-    "prompt": "ELI5 the latest news about voting rights. Answer in 8 sentences."
+    "prompt": "ELI5 the latest news. Answer in 8 sentences."
   },
   {
     "id": 351,
@@ -2766,38 +2766,38 @@
   },
   {
     "id": 396,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "show me three credible sources to learn about {topic}",
     "length": "none",
-    "prompt": "show me three credible sources to learn about voting rights."
+    "prompt": "show me three credible sources to learn."
   },
   {
     "id": 397,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "show me three credible sources to learn about {topic}",
     "length": 5,
-    "prompt": "show me three credible sources to learn about voting rights. answer in 5 sentences."
+    "prompt": "show me three credible sources to learn. answer in 5 sentences."
   },
   {
     "id": 398,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "show me three credible sources to learn about {topic}",
     "length": 6,
-    "prompt": "show me three credible sources to learn about voting rights. answer in 6 sentences."
+    "prompt": "show me three credible sources to learn. answer in 6 sentences."
   },
   {
     "id": 399,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "show me three credible sources to learn about {topic}",
     "length": 7,
-    "prompt": "show me three credible sources to learn about voting rights. answer in 7 sentences."
+    "prompt": "show me three credible sources to learn. answer in 7 sentences."
   },
   {
     "id": 400,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "show me three credible sources to learn about {topic}",
     "length": 8,
-    "prompt": "show me three credible sources to learn about voting rights. answer in 8 sentences."
+    "prompt": "show me three credible sources to learn. answer in 8 sentences."
   },
   {
     "id": 401,
@@ -3116,38 +3116,38 @@
   },
   {
     "id": 446,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "can I have some of the latest news about {topic}",
     "length": "none",
-    "prompt": "can i have some of the latest news about voting rights."
+    "prompt": "can i have some of the latest news."
   },
   {
     "id": 447,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "can I have some of the latest news about {topic}",
     "length": 5,
-    "prompt": "can i have some of the latest news about voting rights. answer in 5 sentences."
+    "prompt": "can i have some of the latest news. answer in 5 sentences."
   },
   {
     "id": 448,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "can I have some of the latest news about {topic}",
     "length": 6,
-    "prompt": "can i have some of the latest news about voting rights. answer in 6 sentences."
+    "prompt": "can i have some of the latest news. answer in 6 sentences."
   },
   {
     "id": 449,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "can I have some of the latest news about {topic}",
     "length": 7,
-    "prompt": "can i have some of the latest news about voting rights. answer in 7 sentences."
+    "prompt": "can i have some of the latest news. answer in 7 sentences."
   },
   {
     "id": 450,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "can I have some of the latest news about {topic}",
     "length": 8,
-    "prompt": "can i have some of the latest news about voting rights. answer in 8 sentences."
+    "prompt": "can i have some of the latest news. answer in 8 sentences."
   },
   {
     "id": 451,
@@ -3466,37 +3466,37 @@
   },
   {
     "id": 496,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "List today most important news about {topic}",
     "length": "none",
-    "prompt": "List today most important news about voting rights."
+    "prompt": "List today most important news."
   },
   {
     "id": 497,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "List today most important news about {topic}",
     "length": 5,
-    "prompt": "List today most important news about voting rights. Answer in 5 sentences."
+    "prompt": "List today most important news. Answer in 5 sentences."
   },
   {
     "id": 498,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "List today most important news about {topic}",
     "length": 6,
-    "prompt": "List today most important news about voting rights. Answer in 6 sentences."
+    "prompt": "List today most important news. Answer in 6 sentences."
   },
   {
     "id": 499,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "List today most important news about {topic}",
     "length": 7,
-    "prompt": "List today most important news about voting rights. Answer in 7 sentences."
+    "prompt": "List today most important news. Answer in 7 sentences."
   },
   {
     "id": 500,
-    "topic": "voting rights",
+    "topic": "general news",
     "template": "List today most important news about {topic}",
     "length": 8,
-    "prompt": "List today most important news about voting rights. Answer in 8 sentences."
+    "prompt": "List today most important news. Answer in 8 sentences."
   }
 ]
