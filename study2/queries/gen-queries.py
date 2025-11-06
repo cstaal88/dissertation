@@ -12,12 +12,12 @@ TEMPLATES = [
     "give me the latest important news about {topic}, include news summary, the problem, and your idea of what the solution ought to be",
     "Provide the most important news about {topic} of the last 7 days",
     "Present the most relevant current news about {topic}. Be concise.",
-    "give me a recap and main takeaways from todays major news about {topic}",
+    "give me a recap and main takeaways from today's major news about {topic}",
     "generate a summary of news about {topic} with sources",
     "ELI5 the latest news about: {topic}",
     "show me three credible sources to learn about {topic}",
     "can I have some of the latest news about {topic}",
-    "List today most important news about {topic}"
+    "List today's most important news about {topic}"
 ]
 
 LENGTHS = [None, 5, 6, 7, 8]  # None = no length requirement
