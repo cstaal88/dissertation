@@ -1,0 +1,151 @@
+Outlet_Display,Year,Measure,Total,Rep/Lean Rep,Dem/Lean Dem,Ages 18-29,30-49,50-64,65+
+ABC News,2025,heard-of,92,92,94,90,90,94,96
+NBC News,2025,heard-of,92,92,94,87,91,94,96
+CBS News,2025,heard-of,90,89,91,85,87,92,94
+Telemundo,2025,heard-of,57,52,64,48,65,63,49
+The Wall Street Journal,2025,heard-of,79,79,80,74,78,82,83
+New York Post,2025,heard-of,78,78,78,74,78,80,77
+NPR,2025,heard-of,58,55,62,50,59,62,57
+The Hill,2025,heard-of,37,37,39,28,37,43,38
+The Atlantic,2025,heard-of,37,31,45,40,36,37,37
+The Guardian,2025,heard-of,57,52,64,59,59,59,49
+Forbes,2025,heard-of,78,78,79,75,79,81,74
+The Associated Press,2025,heard-of,66,66,68,53,62,74,75
+Newsmax,2025,heard-of,40,46,37,22,37,50,50
+The Joe Rogan Experience,2025,heard-of,57,63,52,60,60,58,47
+Breitbart,2025,heard-of,34,36,33,23,34,39,38
+Univision,2025,heard-of,44,39,50,32,53,49,36
+Fox News,2025,heard-of,93,94,92,90,92,94,95
+CNN,2025,heard-of,94,94,95,92,93,95,94
+MSNBC,2025,heard-of,85,84,87,76,85,88,89
+The New York Times,2025,heard-of,84,83,85,83,84,86,83
+The Washington Post,2025,heard-of,81,80,82,80,81,82,80
+PBS,2025,heard-of,85,85,86,83,83,87,88
+Axios,2025,heard-of,30,29,33,19,29,36,36
+USA Today,2025,heard-of,84,84,85,76,83,88,88
+HuffPost,2025,heard-of,55,52,59,49,60,58,49
+Newsweek,2025,heard-of,72,73,73,47,71,83,83
+Politico,2025,heard-of,49,49,52,36,47,56,56
+BBC News,2025,heard-of,79,78,81,76,79,82,78
+The Daily Wire,2025,heard-of,40,48,34,49,44,40,27
+Tucker Carlson Network,2025,heard-of,27,37,19,24,23,31,32
+ABC News,2025,use,36,27,46,28,30,41,49
+NBC News,2025,use,35,24,47,22,28,41,51
+CBS News,2025,use,30,22,39,19,23,37,46
+Telemundo,2025,use,6,5,7,7,8,5,3
+The Wall Street Journal,2025,use,13,12,16,14,13,12,14
+New York Post,2025,use,9,10,8,10,9,9,7
+NPR,2025,use,20,9,32,17,22,20,20
+The Hill,2025,use,5,4,6,4,5,6,5
+The Atlantic,2025,use,5,1,10,5,5,6,6
+The Guardian,2025,use,8,4,13,8,9,8,8
+Forbes,2025,use,9,9,10,11,10,8,7
+The Associated Press,2025,use,21,11,31,20,22,21,20
+Newsmax,2025,use,8,15,1,1,4,12,15
+The Joe Rogan Experience,2025,use,12,22,2,14,12,13,8
+Breitbart,2025,use,3,7,0,0,2,6,6
+Univision,2025,use,6,4,7,8,8,4,3
+Fox News,2025,use,38,57,18,28,32,45,47
+CNN,2025,use,33,20,48,29,32,34,37
+MSNBC,2025,use,22,11,33,13,19,25,30
+The New York Times,2025,use,19,10,29,26,20,16,16
+The Washington Post,2025,use,12,7,18,15,13,10,12
+PBS,2025,use,21,11,31,13,17,23,30
+Axios,2025,use,3,1,5,3,3,3,4
+USA Today,2025,use,14,11,17,11,14,14,15
+HuffPost,2025,use,5,2,8,3,5,6,6
+Newsweek,2025,use,8,6,10,4,6,10,11
+Politico,2025,use,8,4,12,6,7,8,9
+BBC News,2025,use,21,13,30,16,22,23,23
+The Daily Wire,2025,use,6,12,2,8,7,6,4
+Tucker Carlson Network,2025,use,5,9,1,2,4,7,6
+ABC News,2025,trust,44,26,61,37,40,46,52
+NBC News,2025,trust,42,25,60,33,38,45,54
+CBS News,2025,trust,39,23,56,30,35,42,51
+Telemundo,2025,trust,9,6,12,10,11,8,7
+The Wall Street Journal,2025,trust,30,23,37,26,28,29,36
+New York Post,2025,trust,16,15,17,13,14,19,20
+NPR,2025,trust,29,12,47,27,32,28,27
+The Hill,2025,trust,8,5,11,6,8,8,9
+The Atlantic,2025,trust,11,3,20,11,10,10,13
+The Guardian,2025,trust,14,7,23,16,14,14,14
+Forbes,2025,trust,23,18,28,22,22,22,24
+The Associated Press,2025,trust,31,16,47,26,30,32,34
+Newsmax,2025,trust,11,21,2,2,6,17,20
+The Joe Rogan Experience,2025,trust,17,31,3,17,16,19,15
+Breitbart,2025,trust,5,10,1,1,3,8,9
+Univision,2025,trust,9,5,13,11,12,7,6
+Fox News,2025,trust,37,56,19,28,32,42,48
+CNN,2025,trust,39,21,58,33,39,41,45
+MSNBC,2025,trust,29,14,45,20,26,32,37
+The New York Times,2025,trust,32,16,49,35,33,29,32
+The Washington Post,2025,trust,25,14,37,27,24,25,25
+PBS,2025,trust,41,23,59,35,40,41,47
+Axios,2025,trust,6,2,11,6,6,6,7
+USA Today,2025,trust,27,18,37,21,26,30,33
+HuffPost,2025,trust,8,2,13,4,7,9,11
+Newsweek,2025,trust,19,11,26,6,15,25,30
+Politico,2025,trust,13,4,21,10,12,13,14
+BBC News,2025,trust,35,20,52,30,37,36,38
+The Daily Wire,2025,trust,8,14,3,10,8,10,6
+Tucker Carlson Network,2025,trust,8,15,1,3,6,11,11
+ABC News,2025,distrust,25,43,7,21,22,29,26
+NBC News,2025,distrust,25,44,7,21,23,30,27
+CBS News,2025,distrust,23,40,6,18,21,28,25
+Telemundo,2025,distrust,10,14,5,7,11,12,8
+The Wall Street Journal,2025,distrust,15,21,8,18,15,16,12
+New York Post,2025,distrust,26,28,25,27,27,26,22
+NPR,2025,distrust,14,26,3,8,13,19,17
+The Hill,2025,distrust,7,10,5,6,7,10,7
+The Atlantic,2025,distrust,8,12,3,7,8,9,7
+The Guardian,2025,distrust,11,15,6,12,12,12,9
+Forbes,2025,distrust,12,16,8,17,13,11,7
+The Associated Press,2025,distrust,14,26,3,9,13,19,16
+Newsmax,2025,distrust,15,7,23,10,17,16,14
+The Joe Rogan Experience,2025,distrust,24,9,40,29,28,22,16
+Breitbart,2025,distrust,17,8,26,13,20,17,15
+Univision,2025,distrust,8,12,5,5,9,10,7
+Fox News,2025,distrust,42,21,64,47,45,39,37
+CNN,2025,distrust,36,58,14,39,33,38,34
+MSNBC,2025,distrust,29,49,11,24,28,33,32
+The New York Times,2025,distrust,22,37,7,20,20,26,23
+The Washington Post,2025,distrust,22,33,11,19,21,24,22
+PBS,2025,distrust,15,26,4,11,13,19,17
+Axios,2025,distrust,6,10,3,2,6,8,7
+USA Today,2025,distrust,18,28,8,16,18,22,17
+HuffPost,2025,distrust,18,26,10,16,20,20,14
+Newsweek,2025,distrust,15,23,7,11,15,18,15
+Politico,2025,distrust,13,22,5,8,12,17,16
+BBC News,2025,distrust,13,21,5,14,13,14,10
+The Daily Wire,2025,distrust,10,10,10,15,12,9,4
+Tucker Carlson Network,2025,distrust,9,6,13,13,9,8,9
+ABC News,2025,trust-ratio,1.78,-1.64,9.06,1.73,1.82,1.58,2.01
+NBC News,2025,trust-ratio,1.69,-1.78,8.28,1.59,1.66,1.51,2.04
+CBS News,2025,trust-ratio,1.71,-1.78,9.06,1.70,1.66,1.50,2.04
+Telemundo,2025,trust-ratio,-1.06,-2.38,2.34,1.51,1.02,-1.61,-1.09
+The Wall Street Journal,2025,trust-ratio,1.98,1.07,4.42,1.47,1.84,1.88,2.95
+New York Post,2025,trust-ratio,-1.60,-1.83,-1.42,-2.07,-1.95,-1.40,-1.14
+NPR,2025,trust-ratio,2.01,-2.17,14.10,3.38,2.46,1.45,1.60
+The Hill,2025,trust-ratio,1.05,-1.90,2.27,1.03,1.07,-1.24,1.40
+The Atlantic,2025,trust-ratio,1.40,-4.64,6.18,1.48,1.30,1.12,1.91
+The Guardian,2025,trust-ratio,1.30,-2.32,3.54,1.36,1.17,1.25,1.55
+Forbes,2025,trust-ratio,1.88,1.11,3.67,1.30,1.67,2.06,3.21
+The Associated Press,2025,trust-ratio,2.17,-1.65,16.91,2.79,2.43,1.71,2.11
+Newsmax,2025,trust-ratio,-1.33,2.97,-10.66,-4.15,-2.64,1.04,1.41
+The Joe Rogan Experience,2025,trust-ratio,-1.46,3.47,-12.44,-1.69,-1.81,-1.13,-1.10
+Breitbart,2025,trust-ratio,-3.20,1.27,-40.78,-13.21,-6.57,-2.00,-1.70
+Univision,2025,trust-ratio,1.10,-2.22,2.66,2.15,1.29,-1.51,-1.23
+Fox News,2025,trust-ratio,-1.12,2.68,-3.44,-1.68,-1.40,1.09,1.32
+CNN,2025,trust-ratio,1.10,-2.85,4.17,-1.17,1.17,1.06,1.29
+MSNBC,2025,trust-ratio,-1.01,-3.45,4.10,-1.18,-1.04,-1.03,1.15
+The New York Times,2025,trust-ratio,1.45,-2.30,6.64,1.78,1.63,1.12,1.39
+The Washington Post,2025,trust-ratio,1.16,-2.35,3.43,1.42,1.16,1.01,1.15
+PBS,2025,trust-ratio,2.74,-1.12,15.95,3.04,3.11,2.15,2.83
+Axios,2025,trust-ratio,1.02,-4.43,4.20,2.52,1.07,-1.51,-1.02
+USA Today,2025,trust-ratio,1.51,-1.57,4.61,1.28,1.51,1.36,1.95
+HuffPost,2025,trust-ratio,-2.31,-10.94,1.35,-3.92,-2.92,-2.14,-1.35
+Newsweek,2025,trust-ratio,1.28,-1.99,3.76,-1.92,-1.03,1.39,2.07
+Politico,2025,trust-ratio,-1.05,-4.92,4.27,1.36,1.04,-1.32,-1.10
+BBC News,2025,trust-ratio,2.78,-1.04,10.97,2.11,2.93,2.58,3.64
+The Daily Wire,2025,trust-ratio,-1.21,1.38,-3.61,-1.57,-1.46,1.09,1.44
+Tucker Carlson Network,2025,trust-ratio,-1.21,2.53,-12.79,-3.77,-1.41,1.37,1.22

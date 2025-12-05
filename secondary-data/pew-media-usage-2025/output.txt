@@ -1,0 +1,188 @@
+Pew estimated news usage for Americans (2025)
+
+==================================================
+Sorted by Total:
+==================================================
+          Outlet_Display  Year Measure  Total  rep_all  dem_all
+                Fox News  2025     use   38.0     57.0     18.0
+                ABC News  2025     use   36.0     27.0     46.0
+                NBC News  2025     use   35.0     24.0     47.0
+                     CNN  2025     use   33.0     20.0     48.0
+                CBS News  2025     use   30.0     22.0     39.0
+                   MSNBC  2025     use   22.0     11.0     33.0
+                BBC News  2025     use   21.0     13.0     30.0
+    The Associated Press  2025     use   21.0     11.0     31.0
+                     PBS  2025     use   21.0     11.0     31.0
+                     NPR  2025     use   20.0      9.0     32.0
+      The New York Times  2025     use   19.0     10.0     29.0
+               USA Today  2025     use   14.0     11.0     17.0
+ The Wall Street Journal  2025     use   13.0     12.0     16.0
+The Joe Rogan Experience  2025     use   12.0     22.0      2.0
+     The Washington Post  2025     use   12.0      7.0     18.0
+                  Forbes  2025     use    9.0      9.0     10.0
+           New York Post  2025     use    9.0     10.0      8.0
+                Politico  2025     use    8.0      4.0     12.0
+            The Guardian  2025     use    8.0      4.0     13.0
+                 Newsmax  2025     use    8.0     15.0      1.0
+                Newsweek  2025     use    8.0      6.0     10.0
+          The Daily Wire  2025     use    6.0     12.0      2.0
+               Univision  2025     use    6.0      4.0      7.0
+               Telemundo  2025     use    6.0      5.0      7.0
+                HuffPost  2025     use    5.0      2.0      8.0
+            The Atlantic  2025     use    5.0      1.0     10.0
+                The Hill  2025     use    5.0      4.0      6.0
+  Tucker Carlson Network  2025     use    5.0      9.0      1.0
+                   Axios  2025     use    3.0      1.0      5.0
+               Breitbart  2025     use    3.0      7.0      0.0
+
+==================================================
+Sorted by rep_all:
+==================================================
+          Outlet_Display  Year Measure  Total  rep_all  dem_all
+                Fox News  2025     use   38.0     57.0     18.0
+                ABC News  2025     use   36.0     27.0     46.0
+                NBC News  2025     use   35.0     24.0     47.0
+                CBS News  2025     use   30.0     22.0     39.0
+The Joe Rogan Experience  2025     use   12.0     22.0      2.0
+                     CNN  2025     use   33.0     20.0     48.0
+                 Newsmax  2025     use    8.0     15.0      1.0
+                BBC News  2025     use   21.0     13.0     30.0
+          The Daily Wire  2025     use    6.0     12.0      2.0
+ The Wall Street Journal  2025     use   13.0     12.0     16.0
+               USA Today  2025     use   14.0     11.0     17.0
+                     PBS  2025     use   21.0     11.0     31.0
+                   MSNBC  2025     use   22.0     11.0     33.0
+    The Associated Press  2025     use   21.0     11.0     31.0
+           New York Post  2025     use    9.0     10.0      8.0
+      The New York Times  2025     use   19.0     10.0     29.0
+  Tucker Carlson Network  2025     use    5.0      9.0      1.0
+                  Forbes  2025     use    9.0      9.0     10.0
+                     NPR  2025     use   20.0      9.0     32.0
+               Breitbart  2025     use    3.0      7.0      0.0
+     The Washington Post  2025     use   12.0      7.0     18.0
+                Newsweek  2025     use    8.0      6.0     10.0
+               Telemundo  2025     use    6.0      5.0      7.0
+            The Guardian  2025     use    8.0      4.0     13.0
+                The Hill  2025     use    5.0      4.0      6.0
+                Politico  2025     use    8.0      4.0     12.0
+               Univision  2025     use    6.0      4.0      7.0
+                HuffPost  2025     use    5.0      2.0      8.0
+            The Atlantic  2025     use    5.0      1.0     10.0
+                   Axios  2025     use    3.0      1.0      5.0
+
+==================================================
+Sorted by dem_all:
+==================================================
+          Outlet_Display  Year Measure  Total  rep_all  dem_all
+                     CNN  2025     use   33.0     20.0     48.0
+                NBC News  2025     use   35.0     24.0     47.0
+                ABC News  2025     use   36.0     27.0     46.0
+                CBS News  2025     use   30.0     22.0     39.0
+                   MSNBC  2025     use   22.0     11.0     33.0
+                     NPR  2025     use   20.0      9.0     32.0
+    The Associated Press  2025     use   21.0     11.0     31.0
+                     PBS  2025     use   21.0     11.0     31.0
+                BBC News  2025     use   21.0     13.0     30.0
+      The New York Times  2025     use   19.0     10.0     29.0
+                Fox News  2025     use   38.0     57.0     18.0
+     The Washington Post  2025     use   12.0      7.0     18.0
+               USA Today  2025     use   14.0     11.0     17.0
+ The Wall Street Journal  2025     use   13.0     12.0     16.0
+            The Guardian  2025     use    8.0      4.0     13.0
+                Politico  2025     use    8.0      4.0     12.0
+                Newsweek  2025     use    8.0      6.0     10.0
+            The Atlantic  2025     use    5.0      1.0     10.0
+                  Forbes  2025     use    9.0      9.0     10.0
+                HuffPost  2025     use    5.0      2.0      8.0
+           New York Post  2025     use    9.0     10.0      8.0
+               Univision  2025     use    6.0      4.0      7.0
+               Telemundo  2025     use    6.0      5.0      7.0
+                The Hill  2025     use    5.0      4.0      6.0
+                   Axios  2025     use    3.0      1.0      5.0
+The Joe Rogan Experience  2025     use   12.0     22.0      2.0
+          The Daily Wire  2025     use    6.0     12.0      2.0
+                 Newsmax  2025     use    8.0     15.0      1.0
+  Tucker Carlson Network  2025     use    5.0      9.0      1.0
+               Breitbart  2025     use    3.0      7.0      0.0
+
+==================================================
+TOP 15 BY TOTAL:
+==================================================
+1. Fox News
+2. ABC News
+3. NBC News
+4. CNN
+5. CBS News
+6. MSNBC
+7. BBC News
+8. The Associated Press
+9. PBS
+10. NPR
+11. The New York Times
+12. USA Today
+13. The Wall Street Journal
+14. The Joe Rogan Experience
+15. The Washington Post
+
+==================================================
+TOP 15 BY rep_all:
+==================================================
+1. Fox News
+2. ABC News
+3. NBC News
+4. CBS News
+5. The Joe Rogan Experience
+6. CNN
+7. Newsmax
+8. BBC News
+9. The Daily Wire
+10. The Wall Street Journal
+11. USA Today
+12. PBS
+13. MSNBC
+14. The Associated Press
+15. New York Post
+
+==================================================
+TOP 15 BY dem_all:
+==================================================
+1. CNN
+2. NBC News
+3. ABC News
+4. CBS News
+5. MSNBC
+6. NPR
+7. The Associated Press
+8. PBS
+9. BBC News
+10. The New York Times
+11. Fox News
+12. The Washington Post
+13. USA Today
+14. The Wall Street Journal
+15. The Guardian
+
+==================================================
+COMBINED DEDUPLICATED LIST:
+==================================================
+1. Fox News
+2. ABC News
+3. NBC News
+4. CNN
+5. CBS News
+6. MSNBC
+7. BBC News
+8. The Associated Press
+9. PBS
+10. NPR
+11. The New York Times
+12. USA Today
+13. The Wall Street Journal
+14. The Joe Rogan Experience
+15. The Washington Post
+16. Newsmax
+17. The Daily Wire
+18. New York Post
+19. The Guardian
+
+Total unique outlets: 19
